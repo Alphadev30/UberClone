@@ -26,18 +26,18 @@
 <br>
 <hr>
 <br>
-<img src="/Images/4.jpg" alt="Could not load image" style="max-width:100%;">
+<img src="/Images/4.png" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
 <br>
-<img src="/Images/5.jpg" alt="Could not load image" style="max-width:100%;">
+<img src="/Images/5.png" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
 <br>
-<img src="/Images/6.jpg" alt="Could not load image" style="max-width:100%;">
+<img src="/Images/6.png" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
 <br>
-<img src="/Images/7.jpg" alt="Could not load image" style="max-width:100%;">
+<img src="/Images/7.png" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
